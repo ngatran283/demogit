@@ -1,2 +1,2 @@
-tea
-milk
+tea 4 spoons
+milk  170ml
